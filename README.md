@@ -1,4 +1,5 @@
 # Income_Prediction_Project_BIA
+
 BIA_BatchVIII_Final_Project_Farhan_Shabbir_Butt_Income_Prediction Contains 3 files. 
 
 adult.csv--> Contains original dataset
